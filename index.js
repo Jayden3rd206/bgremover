@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["🎮 Playing Camping Roleplay"];
-const statusTypes = [ 'offline'];
+const statusTypes = [ 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
